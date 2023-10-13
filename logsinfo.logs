@@ -1,0 +1,5 @@
+17:28:52,239  INFO com.selenium.base.BaseClass<strong>{1}</strong>:25 - Starting amazon app
+17:29:00,229  INFO com.selenium.pages.SearchingProduct<strong>{1}</strong>:32 - skipped the page
+17:29:46,478  INFO com.selenium.pages.SearchingProduct<strong>{1}</strong>:39 - Entered product as iphone 13
+17:29:52,621  INFO com.selenium.pages.SearchingProduct<strong>{1}</strong>:42 - Got the iphone 13 search results
+17:30:07,068  INFO com.selenium.pages.SearchingProduct<strong>{1}</strong>:45 - Selected iPhone 13 Mini, 128GB, Blue - Unlocked (Renewed)
